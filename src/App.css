@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+.wave-bg {
+  background-image: url(wave.svg);
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
